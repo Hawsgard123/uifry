@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.background {
+    background: linear-gradient(45deg, #fff, #f7797d);
+    background-size: 300% 300%;
+    animation-delay: 2s;
+    animation: color 5s ease-in-out infinite;
+}
+
+@keyframes color {
+0% {
+    background-position: 0 50%;
+}
+50% {
+    background-position: 100% 50%;
+}
+100% {
+    background-position: 0 50%;
+}
+}

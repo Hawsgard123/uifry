@@ -1,0 +1,126 @@
+{
+    "hero": {
+      "headline": "Make The Best Financial Decisions",
+      "subheadline": "The best app for all your needs.",
+      "ctaButtons": [
+        {
+          "text": "Download Now",
+          "link": "/download"
+        },
+        {
+          "text": "Learn More",
+          "link": "#features"
+        }
+      ]
+    },
+    "features": [
+      {
+        "title": "Budgeting Intervals",
+        "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+        "icon": "https://res.cloudinary.com/de7hlbfce/image/upload/v1717322134/uifry/Features/wfof5ajom0uqzcuafxya.png"
+      },
+      {
+        "title": "Budgeting Intervals",
+        "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+        "icon": "https://res.cloudinary.com/de7hlbfce/image/upload/v1717322134/uifry/Features/cpbkjzua9mv9vgdjn7zy.png"
+      },
+      {
+        "title": "Budgeting Intervals",
+        "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
+        "icon": "https://res.cloudinary.com/de7hlbfce/image/upload/v1717322134/uifry/Features/etdd8fkno2dhulv8e1at.png"
+      }
+    ],
+    "testimonials": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "rating": 5,
+        "date": "2024-05-15",
+        "heading": "Game-Changer for Daily Tasks",
+        "comment": "This app has transformed the way I manage my daily tasks. The user interface is intuitive and the features are exactly what I need!",
+        "image_url": "https://res.cloudinary.com/de7hlbfce/image/upload/v1717385362/uifry/Testimonial/zqlf8nu17wocarv172cl.png"
+      },
+      {
+        "id": 2,
+        "name": "Nick Jonas",
+        "rating": 4,
+        "date": "2024-05-18",
+        "heading": "Excellent App and Support",
+        "comment": "I love this app! It has made my life so much easier. The customer support is also very responsive and helpful.",
+        "image_url": "https://res.cloudinary.com/de7hlbfce/image/upload/v1717385362/uifry/Testimonial/xmilyplp9unor3uugdqr.png"
+      },
+      {
+        "id": 3,
+        "name": "Alice Johnson",
+        "rating": 5,
+        "date": "2024-05-20",
+        "heading": "Fantastic and Sleek",
+        "comment": "Absolutely fantastic! The app runs smoothly and has a sleek design. Highly recommend to anyone looking for an efficient productivity tool.",
+        "image_url": "https://res.cloudinary.com/de7hlbfce/image/upload/v1717385362/uifry/Testimonial/mcm3omn1ygi3u2lyps0q.png"
+      },
+      {
+        "id": 4,
+        "name": "Michael Brown",
+        "rating": 3,
+        "date": "2024-05-22",
+        "heading": "Good, But Needs Improvements",
+        "comment": "The app is good, but it could use some improvements in terms of speed. Overall, a decent experience.",
+        "image_url": "https://res.cloudinary.com/de7hlbfce/image/upload/v1717385362/uifry/Testimonial/fbo6h0yhesah7ubkdozf.png"
+      },
+      {
+        "id": 5,
+        "name": "Emily Davis",
+        "rating": 5,
+        "date": "2024-05-25",
+        "heading": "Essential App for Me",
+        "comment": "I can't imagine my life without this app now. It has all the features I need and more. Great job by the developers!",
+        "image_url": "https://res.cloudinary.com/de7hlbfce/image/upload/v1717385362/uifry/Testimonial/xcryfjcjzgxxcau2r7kk.png"
+      }
+    ],
+    "pricing": [
+      {
+        "id": 1,
+        "plan": "Basic",
+        "price": "$9.99/month",
+        "features": ["Feature A", "Feature B", "Feature C"]
+      },
+      {
+        "id": 2,
+        "plan": "Premium",
+        "price": "$19.99/month",
+        "features": ["Feature A", "Feature B", "Feature C", "Feature D"]
+      }
+    ],
+    "faq": [
+      {
+        "id": 1,
+        "question": "The Best Financial Accounting App Ever!",
+        "answer": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."
+      },
+      {
+        "id": 2,
+        "question": "The Best Financial Accounting App Ever!",
+        "answer": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."
+      },
+      {
+        "id": 3,
+        "question": "The Best Financial Accounting App Ever!",
+        "answer": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."
+      },
+      {
+        "id": 4,
+        "question": "The Best Financial Accounting App Ever!",
+        "answer": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."
+      },
+      {
+        "id": 5,
+        "question": "The Best Financial Accounting App Ever!",
+        "answer": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."
+      },
+      {
+        "id": 6,
+        "question": "The Best Financial Accounting App Ever!",
+        "answer": "Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies. In ultrices malesuada elit mauris."
+      }
+    ]
+  }
