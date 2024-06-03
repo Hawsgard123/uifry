@@ -11,8 +11,8 @@ const Price = (props : any) => {
                             <div className="text-[2.5rem] font-black text-center p-4">{item.price}</div>
                             <div className="flex flex-col justify-center items-center gap-y-4 p-8">
                                 {
-                                    item.features.map((feature : any) => (
-                                        <div className="flex flex-row items-center gap-x-2">
+                                    item.features.map((feature : any, index : number) => (
+                                        <div key={index} className="flex flex-row items-center gap-x-2">
                                             <div className="font-black">{feature}</div>
                                         </div>
                                     ))

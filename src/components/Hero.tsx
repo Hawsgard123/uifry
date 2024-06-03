@@ -13,7 +13,7 @@ const Hero = (props: any) => {
                     <div className="flex flex-row lg:justify-start justify-center gap-x-4 lg:mt-4 mt-12 lg:mb-0 mb-8">
                         {
                             data.ctaButtons.map((item : any) => (
-                                <a href={item.link} className="p-2 bg-black text-white rounded-md hover:bg-[#FF5555] transition-all ease-in-out duration-500 font-black">{item.text}</a>
+                                <a key={item.id} href={item.link} className="p-2 bg-black text-white rounded-md hover:bg-[#FF5555] transition-all ease-in-out duration-500 font-black">{item.text}</a>
                             ))
                         }
                     </div>

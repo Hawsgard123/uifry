@@ -10,7 +10,7 @@ const Features = (props : any) => {
                     <div className="text-[3rem] font-clashDisplay font-black lg:text-left text-center">Uifry Premium</div>
                     {
                         data.map((item : any) => (
-                            <div className="flex flex-col mt-4 font-clashDisplay gap-y-2">
+                            <div key={item.id} className="flex flex-col mt-4 font-clashDisplay gap-y-2">
                                 <div className="flex flex-row items-center gap-x-2">
                                     <img src={item.icon} alt="icon" className="w-4 h-4"/>
                                     <div className="font-black">{item.title}</div>

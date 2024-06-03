@@ -15,16 +15,19 @@
     },
     "features": [
       {
+        "id": 1,
         "title": "Budgeting Intervals",
         "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
         "icon": "https://res.cloudinary.com/de7hlbfce/image/upload/v1717322134/uifry/Features/wfof5ajom0uqzcuafxya.png"
       },
       {
+        "id": 2,
         "title": "Budgeting Intervals",
         "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
         "icon": "https://res.cloudinary.com/de7hlbfce/image/upload/v1717322134/uifry/Features/cpbkjzua9mv9vgdjn7zy.png"
       },
       {
+        "id": 3,
         "title": "Budgeting Intervals",
         "description": "Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.",
         "icon": "https://res.cloudinary.com/de7hlbfce/image/upload/v1717322134/uifry/Features/etdd8fkno2dhulv8e1at.png"
